@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(61, 60, 60);
+}
+
+section{
+    height: 600px;
+    width: 400px;
+    border: 2px rgb(5, 229, 245) solid;
+    justify-content: center;
+    display: flex;
+    margin-top: 150px;
+    margin-left: 500px;
+    background-color: black;
+}
+
+p {
+    color: aqua;
+    display: flex;
+    margin-bottom: 10px;
+    justify-content: space-between;
+}
+section input{
+    height: 30px;
+    margin-top: 10px;
+}
+
+button{
+   width: 177px;
+   height: 50px;
+   padding: 10px;
+   margin-top: 50px;
+   cursor: pointer;
+}
+button:hover{
+    background-color: aqua;
+    transition: 1s;
+}
+
+h3{
+    text-align: center;
+    color: aqua;
+    margin-bottom: 50px;
+    font-size: 50px;
+    
+}
+
+
